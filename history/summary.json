@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 71,
-    "timeDay": 71,
-    "timeWeek": 71,
-    "timeMonth": 71,
-    "timeYear": 71,
+    "time": 72,
+    "timeDay": 72,
+    "timeWeek": 72,
+    "timeMonth": 72,
+    "timeYear": 72,
     "dailyMinutesDown": {}
   },
   {
@@ -36,21 +36,23 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "example2",
-    "url": "https://www.$EXAMPLE.com",
+    "name": "${{secrets.EXAMPLE}}2",
+    "url": "https://www.${{secrets.EXAMPLE}}.com",
     "icon": "https://icons.duckduckgo.com/ip3/www..ico",
-    "slug": "example2",
+    "slug": "secrets-example-2",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3,
-    "timeDay": 3,
-    "timeWeek": 3,
-    "timeMonth": 3,
-    "timeYear": 3,
-    "dailyMinutesDown": {}
+    "uptime": "23.59%",
+    "uptimeDay": "23.59%",
+    "uptimeWeek": "23.59%",
+    "uptimeMonth": "23.59%",
+    "uptimeYear": "23.59%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-02-03": 0
+    }
   }
 ]
