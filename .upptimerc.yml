@@ -19,7 +19,7 @@ sites:
   - name: example1
     url: https://www.example.com
   - name: example2
-    url: https://www.$example.com
+    url: https://www.$EXAMPLE.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
